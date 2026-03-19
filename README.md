@@ -2,7 +2,7 @@
 
 ## Actividad - Pruebas Funcionales de Software | Resultado de pruebas (`pytest`)
 
-![Resultado](images/resultado#1.png)
+![Resultado](images/resultado%231.png)
 
 - **Total:** 5 pruebas
 - **Pasaron (3):**
